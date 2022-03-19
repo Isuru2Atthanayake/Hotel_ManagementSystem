@@ -1,0 +1,48 @@
+Room 0 occupied by:e
+	*No of guests are: 0
+	*First name of paying guest:null
+	*Surname of paying guest:null
+	*Credit card no of paying guest:0
+
+Room 1 occupied by:mike
+	*No of guests are: 2
+	*First name of paying guest:sally
+	*Surname of paying guest:frenando
+	*Credit card no of paying guest:1234567
+
+Room 2 occupied by:tom
+	*No of guests are: 2
+	*First name of paying guest:shawn
+	*Surname of paying guest:alice
+	*Credit card no of paying guest:1234568
+
+Room 3 occupied by:alice
+	*No of guests are: 1
+	*First name of paying guest:sheward
+	*Surname of paying guest:jonathen
+	*Credit card no of paying guest:13456
+
+Room 4 occupied by:e
+	*No of guests are: 0
+	*First name of paying guest:null
+	*Surname of paying guest:null
+	*Credit card no of paying guest:0
+
+Room 5 occupied by:e
+	*No of guests are: 0
+	*First name of paying guest:null
+	*Surname of paying guest:null
+	*Credit card no of paying guest:0
+
+Room 6 occupied by:e
+	*No of guests are: 0
+	*First name of paying guest:null
+	*Surname of paying guest:null
+	*Credit card no of paying guest:0
+
+Room 7 occupied by:e
+	*No of guests are: 0
+	*First name of paying guest:null
+	*Surname of paying guest:null
+	*Credit card no of paying guest:0
+

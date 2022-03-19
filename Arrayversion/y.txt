@@ -1,0 +1,6 @@
+Room 1 occupied by sam
+	*No of guests are: 3 persons
+	*First name of paying guest:sam
+	*Surname of paying guest:frenando
+	*Credit card no of paying guest:12345627
+
