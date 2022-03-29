@@ -3,4 +3,4 @@ This Program is a Hotel Management System And It consists of<br>
 1.Array verion<br>
 2.Class Version
 <br><br>
-Developed using Java
+This system is developed using Java.
